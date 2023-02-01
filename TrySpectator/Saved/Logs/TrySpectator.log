@@ -26105,3 +26105,435 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.01-08.12.43:889][197]LogPlayLevel: Display: Destroying online subsystem :Context_103
 [2023.02.01-08.13.09:238][446]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
 [2023.02.01-08.13.09:238][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-08.15.49:265][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:265][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:265][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:265][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:265][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:265][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:265][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:265][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:265][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:265][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][988]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:277][989]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 2/3 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.15.49:292][990]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.17.58:028][ 15]LogContentBrowser: Deferred new asset file creation: BP_ImmovableObject1
+[2023.02.01-08.17.58:044][ 15]LogContentBrowser: Creating deferred item: BP_ImmovableObject1
+[2023.02.01-08.17.58:062][ 16]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ImmovableObject1).
+[2023.02.01-08.18.10:655][  6]LogContentBrowser: Attempting asset rename: BP_ImmovableObject1 -> BP_AreaTriggerObject
+[2023.02.01-08.18.10:772][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.01-08.18.10:789][  6]LogContentBrowser: End creating deferred item BP_ImmovableObject1
+[2023.02.01-08.18.12:994][148]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SpawnableObject/BP_AreaTriggerObject.BP_AreaTriggerObject
+[2023.02.01-08.18.12:995][148]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.01-08.18.17:588][393]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2023.02.01-08.18.37:640][551]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.18.37:640][551]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.18.37:640][551]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.18.37:640][551]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=172.16.14.74:57166, Sequence=0
+[2023.02.01-08.19.30:725][687]LogEditorTransaction: Undo Add Component
+[2023.02.01-08.19.31:278][695]LogEditorTransaction: Undo Remove Components
+[2023.02.01-08.21.12:591][549]BlueprintLog: New page: Compile BP_AreaTriggerObject
+[2023.02.01-08.21.12:813][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.02.01-08.21.13:802][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.21.13:893][597]LogSavePackage: Moving output files for package: /Game/SpawnableObject/BP_AreaTriggerObject
+[2023.02.01-08.21.13:893][597]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/BP_AreaTriggerObject6589B50245E19782997EF4B423B24A7A.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/SpawnableObject/BP_AreaTriggerObject.uasset'
+[2023.02.01-08.21.13:907][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 15.1 sec)
+[2023.02.01-08.21.13:916][597]AssetCheck: New page: Asset Save: BP_AreaTriggerObject
+[2023.02.01-08.21.13:916][597]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObject/BP_AreaTriggerObject.BP_AreaTriggerObject
+[2023.02.01-08.22.17:454][265]BlueprintLog: New page: Compile BP_AreaTriggerObject
+[2023.02.01-08.22.17:599][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.02.01-08.22.18:556][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.22.18:639][304]LogSavePackage: Moving output files for package: /Game/SpawnableObject/BP_AreaTriggerObject
+[2023.02.01-08.22.18:640][304]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/BP_AreaTriggerObject9BEF30BF4E1222715FD32A8DBDA7CCD9.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/SpawnableObject/BP_AreaTriggerObject.uasset'
+[2023.02.01-08.22.18:652][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 15.2 sec)
+[2023.02.01-08.22.18:661][304]AssetCheck: New page: Asset Save: BP_AreaTriggerObject
+[2023.02.01-08.22.18:661][304]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObject/BP_AreaTriggerObject.BP_AreaTriggerObject
+[2023.02.01-08.22.39:054][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.22.39:129][495]LogSavePackage: Moving output files for package: /Game/SpawnableObject/BP_AreaTriggerObject
+[2023.02.01-08.22.39:129][495]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/BP_AreaTriggerObject3B0B0DF6479F0D4501917E8A3F31E782.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/SpawnableObject/BP_AreaTriggerObject.uasset'
+[2023.02.01-08.22.39:141][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 15.3 sec)
+[2023.02.01-08.22.39:150][495]AssetCheck: New page: Asset Save: BP_AreaTriggerObject
+[2023.02.01-08.22.39:150][495]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObject/BP_AreaTriggerObject.BP_AreaTriggerObject
+[2023.02.01-08.23.29:194][700]LogEditorTransaction: Undo Delete current selection
+[2023.02.01-08.24.25:545][855]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.01-08.24.25:545][855]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.01-08.24.25:546][855]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.01-08.24.36:024][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.24.36:134][436]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_SpectatorPawn
+[2023.02.01-08.24.36:135][436]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/BP_SpectatorPawnD47B2BB747534EF675285F828088F459.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/ThirdPerson/Blueprints/BP_SpectatorPawn.uasset'
+[2023.02.01-08.24.36:146][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 15.4 sec)
+[2023.02.01-08.24.36:156][436]AssetCheck: New page: Asset Save: BP_SpectatorPawn
+[2023.02.01-08.24.36:157][436]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_SpectatorPawn.BP_SpectatorPawn
+[2023.02.01-08.25.14:077][633]BlueprintLog: New page: Compile BP_SpectatorPawn
+[2023.02.01-08.25.14:255][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.02.01-08.25.15:423][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.25.15:508][686]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_SpectatorPawn
+[2023.02.01-08.25.15:509][686]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/BP_SpectatorPawnB09FC6794F4FCD89CBB6EDB3C7D72ADA.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/ThirdPerson/Blueprints/BP_SpectatorPawn.uasset'
+[2023.02.01-08.25.15:519][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 15.5 sec)
+[2023.02.01-08.25.15:527][686]AssetCheck: New page: Asset Save: BP_SpectatorPawn
+[2023.02.01-08.25.15:527][686]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_SpectatorPawn.BP_SpectatorPawn
+[2023.02.01-08.25.24:461][252]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.01-08.25.24:468][252]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.02.01-08.25.24:470][252]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.01-08.25.24:470][252]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.01-08.25.24:470][252]LogWorldPartition: Display: GetPartitionedActors took 11 us (total: 1 ms)
+[2023.02.01-08.25.24:471][252]LogWorldPartition: Display: GenerateStreaming took 235 us (total: 26 ms)
+[2023.02.01-08.25.24:471][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.01-08.25.24:471][252]PIE: New page: PIE session: ThirdPersonMap (Feb 1, 2023, 10:25:24 PM)
+[2023.02.01-08.25.24:505][252]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.01-08.25.24:511][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006304s)
+[2023.02.01-08.25.24:511][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006352s)
+[2023.02.01-08.25.24:511][252]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.01-08.25.24:512][252]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.02.01-08.25.24:513][252]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.01-08.25.24:513][252]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.01-08.25.24:513][252]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.01-08.25.24:514][252]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.02.01-08.25.24:514][252]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.80 sec)
+[2023.02.01-08.25.24:514][252]LogPlayLevel: PIE: World Init took: (0.002878s)
+[2023.02.01-08.25.24:614][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.02.01-08.25.24:620][252]LogAudio: Display: Creating Audio Device:                 Id: 80, Scope: Unique, Realtime: True
+[2023.02.01-08.25.24:620][252]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.01-08.25.24:620][252]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.01-08.25.24:620][252]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.01-08.25.24:620][252]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.01-08.25.24:620][252]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.01-08.25.24:620][252]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.01-08.25.24:620][252]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.01-08.25.24:621][252]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.01-08.25.24:621][252]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.01-08.25.24:621][252]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.01-08.25.24:621][252]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.01-08.25.24:623][252]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.01-08.25.24:647][252]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.02.01-08.25.24:647][252]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.01-08.25.24:647][252]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.01-08.25.24:648][252]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.01-08.25.24:650][252]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=80
+[2023.02.01-08.25.24:650][252]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=80
+[2023.02.01-08.25.24:652][252]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=80
+[2023.02.01-08.25.24:653][252]LogInit: FAudioDevice initialized.
+[2023.02.01-08.25.24:653][252]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=80
+[2023.02.01-08.25.24:653][252]LogAudio: Display: Audio Device (ID: 80) registered with world 'ThirdPersonMap'.
+[2023.02.01-08.25.24:657][252]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.02.01-08.25.24:668][252]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.02.01-15.25.24
+[2023.02.01-08.25.24:669][252]LogWorld: Bringing up level for play took: 0.012432
+[2023.02.01-08.25.24:672][252]LogOnline: OSS: Created online subsystem instance for: :Context_106
+[2023.02.01-08.25.24:677][252]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.02.01-08.25.24:679][252]PIE: Server logged in
+[2023.02.01-08.25.24:680][252]PIE: Play in editor total start time 0.212 seconds.
+[2023.02.01-08.25.48:155][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-08.25.48:155][470]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.01-08.25.48:156][470]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.01-08.25.48:156][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-08.25.48:157][470]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.02.01-08.25.48:164][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.01-08.25.48:173][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-08.25.48:274][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-08.25.48:275][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.02.01-08.25.48:277][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=80
+[2023.02.01-08.25.48:288][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.02.01-08.25.48:395][471]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2023.02.01-08.26.22:733][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.26.22:819][  5]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Widget/WBP_Prompt
+[2023.02.01-08.26.22:819][  5]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/WBP_Prompt203E99F54A774492CFC1DCA6EEE7700E.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/ThirdPerson/Blueprints/Widget/WBP_Prompt.uasset'
+[2023.02.01-08.26.22:832][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 15.6 sec)
+[2023.02.01-08.26.22:840][  5]AssetCheck: New page: Asset Save: WBP_Prompt
+[2023.02.01-08.26.22:840][  5]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/Widget/WBP_Prompt.WBP_Prompt
+[2023.02.01-08.26.33:834][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.26.33:908][579]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Widget/WBP_Prompt
+[2023.02.01-08.26.33:909][579]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/WBP_Prompt370D506241527380F842AE9366CAED5A.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/ThirdPerson/Blueprints/Widget/WBP_Prompt.uasset'
+[2023.02.01-08.26.33:922][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 15.7 sec)
+[2023.02.01-08.26.33:932][579]AssetCheck: New page: Asset Save: WBP_Prompt
+[2023.02.01-08.26.33:932][579]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/Widget/WBP_Prompt.WBP_Prompt
+[2023.02.01-08.26.35:634][667]BlueprintLog: New page: Compile WBP_Prompt
+[2023.02.01-08.26.35:778][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.02.01-08.26.36:873][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.26.36:942][704]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Widget/WBP_Prompt
+[2023.02.01-08.26.36:942][704]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/WBP_PromptDE2A62A3468969DA6136E98403EBC38D.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/ThirdPerson/Blueprints/Widget/WBP_Prompt.uasset'
+[2023.02.01-08.26.36:955][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 15.8 sec)
+[2023.02.01-08.26.36:964][704]AssetCheck: New page: Asset Save: WBP_Prompt
+[2023.02.01-08.26.36:964][704]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/Widget/WBP_Prompt.WBP_Prompt
+[2023.02.01-08.26.41:432][933]BlueprintLog: New page: Compile WBP_Prompt
+[2023.02.01-08.26.41:572][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.02.01-08.26.42:191][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.26.42:256][946]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Widget/WBP_Prompt
+[2023.02.01-08.26.42:256][946]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/WBP_Prompt6D5AD2534ABB913D24663EBB2E5E68ED.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/ThirdPerson/Blueprints/Widget/WBP_Prompt.uasset'
+[2023.02.01-08.26.42:269][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 15.9 sec)
+[2023.02.01-08.26.42:278][946]AssetCheck: New page: Asset Save: WBP_Prompt
+[2023.02.01-08.26.42:278][946]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/ThirdPerson/Blueprints/Widget/WBP_Prompt.WBP_Prompt
+[2023.02.01-08.26.44:518][ 82]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.01-08.26.44:525][ 82]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.02.01-08.26.44:526][ 82]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.01-08.26.44:526][ 82]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.01-08.26.44:526][ 82]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 1 ms)
+[2023.02.01-08.26.44:528][ 82]LogWorldPartition: Display: GenerateStreaming took 233 us (total: 26 ms)
+[2023.02.01-08.26.44:528][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.01-08.26.44:528][ 82]PIE: New page: PIE session: ThirdPersonMap (Feb 1, 2023, 10:26:44 PM)
+[2023.02.01-08.26.44:528][ 82]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.01-08.26.44:536][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009075s)
+[2023.02.01-08.26.44:536][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009111s)
+[2023.02.01-08.26.44:536][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.01-08.26.44:537][ 82]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.02.01-08.26.44:537][ 82]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.01-08.26.44:537][ 82]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.01-08.26.44:537][ 82]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.01-08.26.44:540][ 82]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.02.01-08.26.44:540][ 82]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.80 sec)
+[2023.02.01-08.26.44:540][ 82]LogPlayLevel: PIE: World Init took: (0.002911s)
+[2023.02.01-08.26.44:639][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.02.01-08.26.44:644][ 82]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2023.02.01-08.26.44:644][ 82]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.01-08.26.44:644][ 82]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.01-08.26.44:644][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.01-08.26.44:644][ 82]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.01-08.26.44:644][ 82]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.01-08.26.44:644][ 82]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.01-08.26.44:645][ 82]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.01-08.26.44:645][ 82]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.01-08.26.44:645][ 82]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.01-08.26.44:645][ 82]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.01-08.26.44:645][ 82]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.01-08.26.44:648][ 82]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.01-08.26.44:670][ 82]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.02.01-08.26.44:671][ 82]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.01-08.26.44:671][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.01-08.26.44:671][ 82]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.01-08.26.44:674][ 82]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2023.02.01-08.26.44:675][ 82]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2023.02.01-08.26.44:677][ 82]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2023.02.01-08.26.44:677][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2023.02.01-08.26.44:677][ 82]LogInit: FAudioDevice initialized.
+[2023.02.01-08.26.44:677][ 82]LogAudio: Display: Audio Device (ID: 81) registered with world 'ThirdPersonMap'.
+[2023.02.01-08.26.44:683][ 82]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.02.01-08.26.44:695][ 82]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.02.01-15.26.44
+[2023.02.01-08.26.44:696][ 82]LogWorld: Bringing up level for play took: 0.012934
+[2023.02.01-08.26.44:699][ 82]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2023.02.01-08.26.44:705][ 82]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.02.01-08.26.44:706][ 82]PIE: Server logged in
+[2023.02.01-08.26.44:707][ 82]PIE: Play in editor total start time 0.182 seconds.
+[2023.02.01-08.27.01:025][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-08.27.01:025][610]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.01-08.27.01:026][610]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.01-08.27.01:026][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-08.27.01:026][610]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.02.01-08.27.01:034][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.01-08.27.01:042][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-08.27.01:144][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.01-08.27.01:146][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.02.01-08.27.01:148][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2023.02.01-08.27.01:153][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-08.27.01:158][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.02.01-08.27.01:272][611]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2023.02.01-08.27.19:267][475]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.02.01-08.27.19:267][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.01-08.28.09:519][256]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.28.09:612][256]LogSavePackage: Moving output files for package: /Game/SpawnableObject/BP_AreaTriggerObject
+[2023.02.01-08.28.09:613][256]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/BP_AreaTriggerObject2C6BB8C1415415BE1EBD0D86F7A3EB33.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/SpawnableObject/BP_AreaTriggerObject.uasset'
+[2023.02.01-08.28.09:626][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 16.0 sec)
+[2023.02.01-08.28.09:635][256]AssetCheck: New page: Asset Save: BP_AreaTriggerObject
+[2023.02.01-08.28.09:635][256]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObject/BP_AreaTriggerObject.BP_AreaTriggerObject
+[2023.02.01-08.28.11:514][389]BlueprintLog: New page: Compile BP_AreaTriggerObject
+[2023.02.01-08.28.11:731][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.02.01-08.28.12:436][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.28.12:503][430]LogSavePackage: Moving output files for package: /Game/SpawnableObject/BP_AreaTriggerObject
+[2023.02.01-08.28.12:503][430]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/BP_AreaTriggerObject4F5CA70045B0F9770796B989629EC45E.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/SpawnableObject/BP_AreaTriggerObject.uasset'
+[2023.02.01-08.28.12:514][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 16.1 sec)
+[2023.02.01-08.28.12:522][430]AssetCheck: New page: Asset Save: BP_AreaTriggerObject
+[2023.02.01-08.28.12:522][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObject/BP_AreaTriggerObject.BP_AreaTriggerObject
+[2023.02.01-08.28.15:972][674]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.01-08.28.15:979][674]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.02.01-08.28.15:980][674]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.01-08.28.15:980][674]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.01-08.28.15:980][674]LogWorldPartition: Display: GetPartitionedActors took 10 us (total: 1 ms)
+[2023.02.01-08.28.15:982][674]LogWorldPartition: Display: GenerateStreaming took 218 us (total: 26 ms)
+[2023.02.01-08.28.15:982][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.01-08.28.15:982][674]PIE: New page: PIE session: ThirdPersonMap (Feb 1, 2023, 10:28:15 PM)
+[2023.02.01-08.28.15:982][674]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.01-08.28.15:988][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006714s)
+[2023.02.01-08.28.15:988][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006751s)
+[2023.02.01-08.28.15:988][674]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.01-08.28.15:989][674]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.02.01-08.28.15:989][674]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.01-08.28.15:989][674]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.01-08.28.15:989][674]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.01-08.28.15:991][674]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.02.01-08.28.15:991][674]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.80 sec)
+[2023.02.01-08.28.15:991][674]LogPlayLevel: PIE: World Init took: (0.002825s)
+[2023.02.01-08.28.16:096][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.01-08.28.16:101][674]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2023.02.01-08.28.16:101][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.01-08.28.16:101][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.01-08.28.16:101][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.01-08.28.16:101][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.01-08.28.16:101][674]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.01-08.28.16:101][674]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.01-08.28.16:101][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.01-08.28.16:101][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.01-08.28.16:102][674]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.01-08.28.16:102][674]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.01-08.28.16:102][674]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.01-08.28.16:105][674]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.01-08.28.16:127][674]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.02.01-08.28.16:128][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.01-08.28.16:128][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.01-08.28.16:128][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.01-08.28.16:129][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2023.02.01-08.28.16:129][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2023.02.01-08.28.16:131][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2023.02.01-08.28.16:131][674]LogInit: FAudioDevice initialized.
+[2023.02.01-08.28.16:131][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2023.02.01-08.28.16:131][674]LogAudio: Display: Audio Device (ID: 82) registered with world 'ThirdPersonMap'.
+[2023.02.01-08.28.16:137][674]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.02.01-08.28.16:148][674]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.02.01-15.28.16
+[2023.02.01-08.28.16:149][674]LogWorld: Bringing up level for play took: 0.011991
+[2023.02.01-08.28.16:152][674]LogOnline: OSS: Created online subsystem instance for: :Context_109
+[2023.02.01-08.28.16:156][674]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.02.01-08.28.16:158][674]PIE: Server logged in
+[2023.02.01-08.28.16:159][674]PIE: Play in editor total start time 0.18 seconds.
+[2023.02.01-08.28.32:685][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-08.28.32:685][212]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.01-08.28.32:685][212]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.01-08.28.32:686][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-08.28.32:686][212]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.02.01-08.28.32:692][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.01-08.28.32:701][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-08.28.32:808][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.01-08.28.32:809][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2023.02.01-08.28.32:810][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2023.02.01-08.28.32:815][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-08.28.32:821][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.02.01-08.28.32:923][213]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2023.02.01-08.29.26:201][396]BlueprintLog: New page: Compile BP_AreaTriggerObject
+[2023.02.01-08.29.26:352][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.02.01-08.29.26:961][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.29.27:038][430]LogSavePackage: Moving output files for package: /Game/SpawnableObject/BP_AreaTriggerObject
+[2023.02.01-08.29.27:038][430]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/BP_AreaTriggerObjectC5F812B74859D6C1DCF8DBBC3952BCE9.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/SpawnableObject/BP_AreaTriggerObject.uasset'
+[2023.02.01-08.29.27:051][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 16.1 sec)
+[2023.02.01-08.29.27:059][430]AssetCheck: New page: Asset Save: BP_AreaTriggerObject
+[2023.02.01-08.29.27:059][430]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObject/BP_AreaTriggerObject.BP_AreaTriggerObject
+[2023.02.01-08.29.29:111][581]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.01-08.29.29:118][581]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.02.01-08.29.29:120][581]LogWorldPartition: Display: GenerateStreaming started...
+[2023.02.01-08.29.29:120][581]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.02.01-08.29.29:120][581]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 1 ms)
+[2023.02.01-08.29.29:121][581]LogWorldPartition: Display: GenerateStreaming took 253 us (total: 26 ms)
+[2023.02.01-08.29.29:121][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.01-08.29.29:121][581]PIE: New page: PIE session: ThirdPersonMap (Feb 1, 2023, 10:29:29 PM)
+[2023.02.01-08.29.29:155][581]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.01-08.29.29:161][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006344s)
+[2023.02.01-08.29.29:161][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006389s)
+[2023.02.01-08.29.29:162][581]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.01-08.29.29:162][581]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.02.01-08.29.29:162][581]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.02.01-08.29.29:162][581]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.02.01-08.29.29:162][581]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.02.01-08.29.29:164][581]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.02.01-08.29.29:164][581]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.81 sec)
+[2023.02.01-08.29.29:164][581]LogPlayLevel: PIE: World Init took: (0.002812s)
+[2023.02.01-08.29.29:273][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.02.01-08.29.29:278][581]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2023.02.01-08.29.29:278][581]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.01-08.29.29:278][581]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.01-08.29.29:278][581]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.01-08.29.29:278][581]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.01-08.29.29:278][581]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.02.01-08.29.29:278][581]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.01-08.29.29:278][581]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.02.01-08.29.29:278][581]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.01-08.29.29:279][581]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.01-08.29.29:279][581]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.01-08.29.29:279][581]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.01-08.29.29:281][581]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.01-08.29.29:304][581]LogAudioMixer: Display: Using Audio Hardware Device Headphones (High Definition Audio Device)
+[2023.02.01-08.29.29:304][581]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.01-08.29.29:305][581]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.01-08.29.29:305][581]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.01-08.29.29:306][581]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2023.02.01-08.29.29:306][581]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2023.02.01-08.29.29:309][581]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2023.02.01-08.29.29:309][581]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2023.02.01-08.29.29:309][581]LogInit: FAudioDevice initialized.
+[2023.02.01-08.29.29:309][581]LogAudio: Display: Audio Device (ID: 83) registered with world 'ThirdPersonMap'.
+[2023.02.01-08.29.29:315][581]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.02.01-08.29.29:328][581]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.02.01-15.29.29
+[2023.02.01-08.29.29:329][581]LogWorld: Bringing up level for play took: 0.013366
+[2023.02.01-08.29.29:332][581]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2023.02.01-08.29.29:337][581]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2023.02.01-08.29.29:338][581]PIE: Server logged in
+[2023.02.01-08.29.29:339][581]PIE: Play in editor total start time 0.221 seconds.
+[2023.02.01-08.29.36:368][233]LogBlueprintUserMessages: [BP_AreaTriggerObject_C_0] Area Triggered
+[2023.02.01-08.29.37:281][319]LogBlueprintUserMessages: [BP_AreaTriggerObject_C_0] Area Triggered
+[2023.02.01-08.29.38:897][462]LogBlueprintUserMessages: [BP_AreaTriggerObject_C_0] Area Triggered
+[2023.02.01-08.29.40:029][567]LogBlueprintUserMessages: [BP_AreaTriggerObject_C_0] Area Triggered
+[2023.02.01-08.29.40:836][642]LogBlueprintUserMessages: [BP_AreaTriggerObject_C_0] Area Triggered
+[2023.02.01-08.29.45:886][124]LogBlueprintUserMessages: [BP_SpectatorPawn_C_0] BP_AI
+[2023.02.01-08.29.49:417][462]LogBlueprintUserMessages: [BP_AreaTriggerObject_C_1] Area Triggered
+[2023.02.01-08.29.58:641][339]LogBlueprintUserMessages: [BP_AreaTriggerObject_C_1] Area Triggered
+[2023.02.01-08.30.00:306][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-08.30.00:306][498]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.02.01-08.30.00:306][498]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.01-08.30.00:307][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-08.30.00:307][498]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.02.01-08.30.00:314][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.01-08.30.00:325][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.01-08.30.00:434][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.01-08.30.00:434][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2023.02.01-08.30.00:436][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2023.02.01-08.30.00:441][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.01-08.30.00:447][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.01-08.30.00:544][499]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2023.02.01-08.30.31:251][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.30.31:424][160]LogSavePackage: Moving output files for package: /Game/SpawnableObject/BP_AreaTriggerObject
+[2023.02.01-08.30.31:425][160]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/BP_AreaTriggerObject8CD179794C68279E3B2281941205957A.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/SpawnableObject/BP_AreaTriggerObject.uasset'
+[2023.02.01-08.30.31:436][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 16.3 sec)
+[2023.02.01-08.30.31:445][160]AssetCheck: New page: Asset Save: BP_AreaTriggerObject
+[2023.02.01-08.30.31:445][160]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObject/BP_AreaTriggerObject.BP_AreaTriggerObject
+[2023.02.01-08.30.32:000][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.30.32:175][172]LogSavePackage: Moving output files for package: /Game/SpawnableObject/BP_AreaTriggerObject
+[2023.02.01-08.30.32:175][172]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/BP_AreaTriggerObjectE993D52C402B984A73F6E4A119710BE4.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/SpawnableObject/BP_AreaTriggerObject.uasset'
+[2023.02.01-08.30.32:189][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 16.5 sec)
+[2023.02.01-08.30.32:197][172]AssetCheck: New page: Asset Save: BP_AreaTriggerObject
+[2023.02.01-08.30.32:197][172]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SpawnableObject/BP_AreaTriggerObject.BP_AreaTriggerObject
+[2023.02.01-08.30.35:982][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.02.01-08.30.37:529][235]LogSlate: Window 'Save Content' being destroyed
+[2023.02.01-08.30.37:539][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.01-08.30.37:584][235]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1B/6CUM5TID3LZXSGTKJP00IM
+[2023.02.01-08.30.37:584][235]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/6CUM5TID3LZXSGTKJP00IMECCB651F4093B251ECA080A43869F44E.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1B/6CUM5TID3LZXSGTKJP00IM.uasset'
+[2023.02.01-08.30.37:610][235]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/TZ/H21B3FAFDBY5P0CLO58BAF
+[2023.02.01-08.30.37:610][235]LogSavePackage: Moving 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Saved/H21B3FAFDBY5P0CLO58BAFB7E3055244612FF1BF85FF9FEC4E89EC.tmp' to 'D:/1.Kerja/7.Saakuru/Research/Git/SpectatorTest/TrySpectator/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/TZ/H21B3FAFDBY5P0CLO58BAF.uasset'
+[2023.02.01-08.30.37:625][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 16.6 sec)
+[2023.02.01-08.30.37:635][235]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.01-08.30.37:635][235]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_AI.BP_AI_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_C_UAID_7085C23934AE196201_1384201055
+[2023.02.01-08.30.37:635][235]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/BP_AIMale.BP_AIMale_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AIMale_C_UAID_7085C23934AE1A6201_1189384234
